@@ -1,33 +1,20 @@
-Reia
+Laser
 ====
-
-FYI: Reia is defunct. No additional work on it is planned. If you are
-interested in the ideas behind Reia, I strongly suggest you check out
-the Elixir language, which is now in a more mature stage of development
-than Reia:
-
-[https://github.com/elixir-lang/elixir](https://github.com/elixir-lang/elixir)
 
 About
 -----
 
-Welcome to Reia (pronounced RAY-uh), a Ruby-like scripting language for the 
-Erlang virtual machine (BEAM).
+Laser is a continuation of reia that aims to shape it into a concurrent-by-default superset of ruby. At the moment, it's mostly just the reia codebase. The focus at the moment is on upgrading the code to erlang 27.
 
-Want to know more about Reia? Syntax examples and that sort of thing? Please
-visit the home page at:
-
-[http://reia-lang.org](http://reia-lang.org)
-
-Compiling Reia
+Compiling Laser
 --------------
 
-Reia requires Erlang version R12B-3 (5.6.3) or later. The latest version of 
+Laser requires Erlang version R12B-3 (5.6.3) or later (changing soon). The latest version of 
 Erlang is available here:
 
-[http://www.erlang.org/download.html](http://www.erlang.org/download.html)
+[https://www.erlang.org](erlang.org)
 
-You'll also need Ruby and Rake installed.  To compile Reia, type:
+You'll also need Ruby and Rake installed.  To compile Laser, simply type:
 
    rake
 
@@ -47,14 +34,10 @@ Here's some thoroughly interesting implementation trivia about Reia:
 Links
 -----
 
-* Home Page: [http://reia-lang.org](http://reia-lang.org)
-* Reia Wiki: [http://wiki.reia-lang.org/](http://wiki.reia-lang.org/)
-* Mailing List: [http://groups.google.com/group/reia](http://groups.google.com/group/reia)
-* Author's Blog: [http://unlimitednovelty.com/](http://unlimitednovelty.com/)
-* Author's Twitter: [http://twitter.com/bascule](http://twitter.com/bascule)
-* IRC: irc.freenode.net #reia
+* Reia Author's Blog: [http://unlimitednovelty.com/](http://unlimitednovelty.com/)
+* Reia Author's Twitter: [http://twitter.com/bascule](http://twitter.com/bascule)
 
-About the Author
+About the Reia Author
 ----------------
 
 Reia was created by Tony Arcieri, a programmer from Denver, Colorado, USA.

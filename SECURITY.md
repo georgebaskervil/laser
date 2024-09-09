@@ -27,7 +27,7 @@ I'm looking to overhaul my useage of e-mail in the near future, and so I'm going
 **Secondary (Signal):**
 
 - For secure and private communication, you can reach me on [Signal](https://signal.me/#eu/Ui1-KTmlgnCbNj491iq3HSOJtrkY1aVHm4n0v97dvkGDbCqWsExOu66Fzg7-7iC9)
-- Note: I get quite a lot of spam on signal, so I may thoughtlessly block and report you if your profile looks too much like a scammer. Firstly, sorry. Secondly, please reach out to me via another method.
+  Note: I get quite a lot of spam on signal, so I may thoughtlessly block and report you if your profile looks too much like a scammer. Firstly, sorry. Secondly, please reach out to me via another method.
 
 **Tertiary (Social Media):**
 

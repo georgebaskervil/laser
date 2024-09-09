@@ -38,10 +38,6 @@ I'm looking to overhaul my useage of e-mail in the near future, and so I'm going
 
 ### Response Process
 
-I am committed to trying to review reports and respond promptly as follows:
-
-### Response Process
-
 I am committed to reviewing reports and responding promptly as follows:
 
 1. I will try my best to acknowledge receipt of your report within 48 hours.
